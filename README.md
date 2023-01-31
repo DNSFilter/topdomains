@@ -43,4 +43,4 @@ https://secrank.cn/topdomain
 
 This data is licensed under CC-BY-SA - the Creative Commons ShareAlike 4.0 License.
 
-Please see [LICENSE] for full details.
+Please see [LICENSE](LICENSE) for full details.
